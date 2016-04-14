@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "dnx451": {
+      "bin": {
+        "assembly": "../../artifacts/bin/BusinessValueProviderPackage/Debug/net451/BusinessValueProviderPackage.dll",
+        "pdb": "../../artifacts/bin/BusinessValueProviderPackage/Debug/net451/BusinessValueProviderPackage.pdb"
+      }
+    },
+    "dnxcore50": {
+      "bin": {
+        "assembly": "../../artifacts/bin/BusinessValueProviderPackage/Debug/dotnet5.4/BusinessValueProviderPackage.dll",
+        "pdb": "../../artifacts/bin/BusinessValueProviderPackage/Debug/dotnet5.4/BusinessValueProviderPackage.pdb"
+      }
+    }
+  }
+}
